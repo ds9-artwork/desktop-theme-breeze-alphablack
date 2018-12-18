@@ -109,4 +109,4 @@ shadeSortColumn=true
 
 [KDE]
 contrast=1
-
+SingleClick=false
